@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Clinic_mng_app:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>Clinic_mng_app</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="Clinic_mng_app-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="Clinic_mng_app:war exploded" />
+    </root>
+  </artifact>
+</component>
